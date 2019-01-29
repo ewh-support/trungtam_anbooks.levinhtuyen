@@ -34340,3 +34340,11 @@ textarea {
 }
 }
 
+
+.set-height .navbar-inner.sliding{
+    max-width: 1250px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
